@@ -38,11 +38,11 @@
 
 | AI写作工具 | 链接 | 特点 |
 | --- | --- | --- |
-| 一下AI写作 | [https://www.yixiaai.com](www.yixiaai.com) | 支持 GPT4、4o 和 o1，支持 AI绘画，扫码就能用 | 
-| AI智慧写作 | [https://chat.lify.vip](chat.lify.vip) | 支持 GPT4、4o 和 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图 |
-| AI工具站 | [https://yixiaai.cn](yixiaai.cn) | AI工具站，各种AI工具，你想要的，这儿全有 |
-| 小鲸鱼AI写作 | [https://ai.lansejingyu.com](ai.lansejingyu.com) | 支持 GPT4、4o，简单便捷 |
-| 蓝鲸AI写作 | [https://lanjing.ai](lanjing.ai) | 适合新手使用 |
+| 一下AI写作 | [www.yixiaai.com](https://www.yixiaai.com) | 支持 GPT4、4o 和 o1，支持 AI绘画，扫码就能用 | 
+| AI智慧写作 | [chat.lify.vip](https://chat.lify.vip) | 支持 GPT4、4o 和 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图 |
+| AI工具站 | [yixiaai.cn](https://yixiaai.cn) | AI工具站，各种AI工具，你想要的，这儿全有 |
+| 小鲸鱼AI写作 | [ai.lansejingyu.com](https://ai.lansejingyu.com) | 支持 GPT4、4o，简单便捷 |
+| 蓝鲸AI写作 | [lanjing.ai](https://lanjing.ai) | 适合新手使用 |
 
 ---
 
